@@ -1,0 +1,11 @@
+# Replace these with your own proxies before running live checks.
+# Supported formats:
+#   host:port
+#   user:pass@host:port
+#   host:port:user:pass
+#   http://host:port
+#   socks5://user:pass@host:port
+
+127.0.0.1:8080
+127.0.0.1:3128
+socks5://127.0.0.1:1080
